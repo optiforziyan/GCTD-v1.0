@@ -1,4 +1,4 @@
-# GCTD-v1.0： A global camera trapping database with geographic information
+# GCTD: A global camera trapping dataset for spatial biodiversity analysis
 
 ## Code availablility
 The codes for overlapping and distance calculation in the Technical Validation part are available here.
